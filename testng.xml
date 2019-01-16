@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="globalResources.ExtentReporterNG"/>
+    </listeners>>
+    <test verbose="2" preserve-order="true" name="/home/mike/IdeaProjects/Restassured">
+        <classes>
+            <class name="ApiExercise.gitRepositoriesSearch">
+                <methods>
+                    <include name="apiRestRateLimitValidation" />
+                    <include name="defaultSearchResultsForTetrisSearch" />
+                    <include name="paginationSearchResultsForTetrisWithA100Results" />
+                    <include name="SearchResultsForASpecificUser" />
+                    <include name="SearchResultsForASpecificUserWithASpecificLanguage" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

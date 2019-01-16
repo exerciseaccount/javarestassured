@@ -1,0 +1,6 @@
+16:26:02.785 [main] INFO  ApiExercise.searchPlace - Host info: https://maps.googleapis.com
+20:22:22.638 [main] INFO  ApiExercise.searchPlace - Host info: https://maps.googleapis.com
+20:05:21.482 [main] INFO  ApiExercise.gitRepositoriesSearch - Host info: https://api.github.com
+20:13:37.965 [main] INFO  ApiExercise.gitRepositoriesSearch - Host info: https://api.github.com
+20:14:36.256 [main] INFO  ApiExercise.gitRepositoriesSearch - Host info: https://api.github.com
+20:28:10.006 [main] INFO  ApiExercise.gitRepositoriesSearch - Host info: https://api.github.com

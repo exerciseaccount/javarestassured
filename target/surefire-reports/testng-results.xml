@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-01-16T17:54:17Z" name="All Test Suite" finished-at="2019-01-16T17:54:29Z" duration-ms="11769">
+    <groups>
+    </groups>
+    <test started-at="2019-01-16T17:54:17Z" name="/home/mike/IdeaProjects/Restassured" finished-at="2019-01-16T17:54:29Z" duration-ms="11769">
+      <class name="ApiExercise.gitRepositoriesSearch">
+        <test-method signature="apiRestRateLimitValidation()[pri:0, instance:ApiExercise.gitRepositoriesSearch@49e53c76]" started-at="2019-01-16T14:54:17Z" name="apiRestRateLimitValidation" finished-at="2019-01-16T14:54:20Z" duration-ms="3170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiRestRateLimitValidation -->
+        <test-method signature="defaultSearchResultsForTetrisSearch()[pri:0, instance:ApiExercise.gitRepositoriesSearch@49e53c76]" started-at="2019-01-16T14:54:20Z" name="defaultSearchResultsForTetrisSearch" finished-at="2019-01-16T14:54:22Z" duration-ms="1726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- defaultSearchResultsForTetrisSearch -->
+        <test-method signature="paginationSearchResultsForTetrisWithA100Results()[pri:0, instance:ApiExercise.gitRepositoriesSearch@49e53c76]" started-at="2019-01-16T14:54:22Z" name="paginationSearchResultsForTetrisWithA100Results" finished-at="2019-01-16T14:54:26Z" duration-ms="3470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paginationSearchResultsForTetrisWithA100Results -->
+        <test-method signature="SearchResultsForASpecificUser()[pri:0, instance:ApiExercise.gitRepositoriesSearch@49e53c76]" started-at="2019-01-16T14:54:26Z" name="SearchResultsForASpecificUser" finished-at="2019-01-16T14:54:27Z" duration-ms="1602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchResultsForASpecificUser -->
+        <test-method signature="SearchResultsForASpecificUserWithASpecificLanguage()[pri:0, instance:ApiExercise.gitRepositoriesSearch@49e53c76]" started-at="2019-01-16T14:54:27Z" name="SearchResultsForASpecificUserWithASpecificLanguage" finished-at="2019-01-16T14:54:29Z" duration-ms="1796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchResultsForASpecificUserWithASpecificLanguage -->
+      </class> <!-- ApiExercise.gitRepositoriesSearch -->
+    </test> <!-- /home/mike/IdeaProjects/Restassured -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
