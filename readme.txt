@@ -2,7 +2,7 @@ In order to run the tests, the following has to be done:
 
 1) Install Java JDK on your computer (of course there's no need to do this if it's already installed)
 2) Install Maven globally on your computer (of course there's no need to do this if it's already installed)
-3) Download the repository (https://github.com/exerciseaccount/javarestassured.git)
+3) Clone/Download this repository (https://github.com/exerciseaccount/javarestassured.git)
 4) Go to the main project directory (that would be /javarestassured, and inside of it you should see the pom.xml file among others)
 5) Execute the following commands (one at the time):
 mvn clean
